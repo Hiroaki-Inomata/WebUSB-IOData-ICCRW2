@@ -7,13 +7,13 @@ On thw Way!!
 
 ## How to install
 
-via npm  
+<!--via npm  
 ```bash
 $ npm i rc_s380_driver
 # or
 $ yarn add rc_s380_driver
 ```  
-
+-->
 via source code  
 ```
 ```
@@ -22,7 +22,7 @@ via source code
 ## How to use
 
 ```TypeScript
-import { RCS380, ReceivedPacket } from 'rc_s380_driver'
+import { RCS380, ReceivedPacket } from 'iodicc2_driver'
 
 class Sample {
     constructor(readonly rcs380: RCS380) {}
@@ -40,7 +40,7 @@ class Sample {
 ```
 
 ## npm package
-[rc-s380-driver](https://www.npmjs.com/package/rc_s380_driver)
+<!--[rc-s380-driver](https://www.npmjs.com/package/rc_s380_driver)-->
 
 ## License
 MIT
