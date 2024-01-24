@@ -1,7 +1,7 @@
 # IO-Data ICCRW2 Driver for WebUSB
 ## What is this?
-IO-Data ICCRW2 (NFC card reader) Driver for WebUSB written in TypeScript.
-Forked from [Aruneko/WebUSB-RC-S380](https://github.com/aruneko/WebUSB-RC-S380)
+IO-Data ICCRW2 (NFC card reader) Driver for WebUSB written in TypeScript.  
+Forked from [Aruneko/WebUSB-RC-S380](https://github.com/aruneko/WebUSB-RC-S380)  
 On thw Way!!
 
 
