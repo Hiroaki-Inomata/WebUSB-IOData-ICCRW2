@@ -1,7 +1,7 @@
 {
-  "name": "rc_s380_driver",
-  "version": "1.1.2",
-  "description": "PaSoRi RC-S380 Driver for WebUSB",
+  "name": "IODICC2_driver",
+  "version": "1.0.0",
+  "description": "ID-Data ICCRW2 Driver for WebUSB",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -42,10 +42,10 @@
       "src/*.{js,ts}"
     ]
   },
-  "author": "Aruneko",
+  "author": "origin:Aruneko modify:Hiroaki-Inomata",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aruneko/WebUSB-RC-S380.git"
+    "url": "https://github.com/Hiroaki-Inomata/WebUSB-IOData-ICCRW2.git"
   },
   "license": "MIT",
   "prettier": {

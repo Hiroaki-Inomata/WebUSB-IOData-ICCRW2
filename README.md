@@ -1,6 +1,9 @@
-# RC-S380 Driver for WebUSB
+# IO-Data ICCRW2 Driver for WebUSB
 ## What is this?
-Sony RC-S380 (NFC card reader) Driver for WebUSB written in TypeScript.
+IO-Data ICCRW2 (NFC card reader) Driver for WebUSB written in TypeScript.
+Forked from [Aruneko/WebUSB-RC-S380](https://github.com/aruneko/WebUSB-RC-S380)
+On thw Way!!
+
 
 ## How to install
 
