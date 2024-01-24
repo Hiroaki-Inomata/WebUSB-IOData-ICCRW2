@@ -7,11 +7,17 @@ On thw Way!!
 
 ## How to install
 
+via npm  
 ```bash
 $ npm i rc_s380_driver
 # or
 $ yarn add rc_s380_driver
+```  
+
+via source code  
 ```
+```
+
 
 ## How to use
 
