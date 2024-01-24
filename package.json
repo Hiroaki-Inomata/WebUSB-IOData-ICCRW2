@@ -1,5 +1,5 @@
 {
-  "name": "IODICC2_driver",
+  "name": "iodicc2_driver",
   "version": "1.0.0",
   "description": "ID-Data ICCRW2 Driver for WebUSB",
   "main": "dist/index.js",
@@ -63,6 +63,10 @@
     "tslint": "^5.19.0",
     "tslint-config-prettier": "^1.18.0",
     "tslint-config-standard": "^8.0.1",
-    "typescript": "^3.6.2"
-  }
+    "typescript": "^3.9.10"
+  },
+  "bugs": {
+    "url": "https://github.com/Hiroaki-Inomata/WebUSB-IOData-ICCRW2/issues"
+  },
+  "homepage": "https://github.com/Hiroaki-Inomata/WebUSB-IOData-ICCRW2#readme"
 }
