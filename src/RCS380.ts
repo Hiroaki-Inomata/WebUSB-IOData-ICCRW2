@@ -98,7 +98,8 @@ export class RCS380 {
 
   public static async connect(): Promise<RCS380> {
     // ベンダーIDとプロダクトIDでRC-S380を特定
-    const filter: USBDeviceFilter = { vendorId: 0x054c, productId: 0x06c3 }
+    //const filter: USBDeviceFilter = { vendorId: 0x054c, productId: 0x06c3 }//origin
+    const filter: USBDeviceFilter = { vendorId: 0x31aa, productId: 0x1100 }
     const options: USBDeviceRequestOptions = {
       filters: [filter]
     }
